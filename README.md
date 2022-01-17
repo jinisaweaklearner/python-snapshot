@@ -1,2 +1,2 @@
-# scripts
-scripts that can be reused for some particular reasons
+# Python Widgets
+store valuable scripts which may not be used that often to save time 
